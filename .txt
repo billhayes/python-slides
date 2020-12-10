@@ -1,0 +1,194 @@
+
+	df = pd.read_clipboard()
+
+Bikeid	Tripduration	From_station_id	From_station_name	To_station_id	To_station_name
+70166	12190	1018	37th St & Butler St	1001	Forbes Ave & Market Square
+70368	8842	1018	37th St & Butler St	1018	37th St & Butler St
+
+
+StationNum	StationName	RackQnty	Latitude	Longitude
+1000	Liberty & Stanwix	16	40.441326	-80.004679
+1001	Forbes Ave & Market Sq	19	40.440877	-80.00308
+1002	Third & Wood	15	40.43903	-80.00186
+1018	37th St & Butler St	21	40.466103	-79.964628
+
+Region State
+midwest ohio
+midwest indiana
+midwest illinois
+midwest iowa
+south kentucky
+south tenesee
+south virginia
+west california
+west nevada
+
+ID Region State
+1 midwest ohio
+11 midwest ohio
+2 midwest indiana
+22 midwest indiana
+23 middwest indiana
+3 midwest illinois
+4 midwest iowa
+44 midwest iowa
+5 south kentucky
+6 south tenesee
+7 south virginia
+8 west california
+9 west nevada
+10 south kentucky
+
+Date Age Weight X
+2018-01-01 11 81 1.2
+2018-06-01 12 92 1.4
+2019-01-01 22 120 3.5
+
+Age Weight X
+11 81 1.2
+11 92 1.4
+22 120 3.5
+22 130 3.8
+22 140 4.1
+33 133 4.0
+33 144 4.5
+44 144 2.2
+55 170 8.6
+70 150 4.2
+
+Age Weight X
+11 81 1.2
+11 73 2.0
+11 85 1.5
+12 92 1.4
+12 85 1.2
+12 102 1.8
+22 120 3.5
+23 130 3.8
+24 140 4.1
+33 133 4.0
+35 144 4.5
+44 144 2.2
+55 170 8.6
+70 150 4.2
+
+Age Weight
+11 81
+12 92
+22 120
+23 160
+24 140
+33 133
+55 170
+70 120
+80 Nan
+
+Country Continent
+Mexico NAm
+Canada NAm
+Brazil SAm
+Columbia SAm
+Peru SAm
+
+Country
+Mexico
+Canada
+Brazil
+Colombia
+Peru
+
+
+Age Weight Name
+44 144 Bob
+55 170 Mary
+70 150 Cindy
+
+Age Weight Name Date
+44     144    Bob 2017-8-21
+55     170   Mary 2017-01-31
+70     150  Cindy 2017-07-15
+47     144 Bobby 2018-02-27
+57     170 MaryLou 2018-01-31
+73     150 Cynthia 2018-07-15
+48     144 Robert 2019-07-21
+58     170 Marvin 2020-01-31
+75     150 Jame 2020-02-15
+
+
+Zip Y
+89110 444
+95123 555
+
+Sex Class Grade
+M Fr 2.8
+M Fr 3.0
+M Fr 3.5
+F Fr 2.5
+F Fr 2.9
+F Fr 3.8
+M So 3.1
+M So 3.8
+F So 3.6
+F So 3.9
+M Jr 2.7
+M Jr 3.3
+M Jr 3.8
+F Jr 2.6
+F Jr 3.2
+F Jr 3.7
+
+City  sales1 sale2 sales3
+Cincy 100 200 300
+Akron 111 222 333
+Albany 99 88 77
+
+Month Year Rain
+August 2015 3
+May 2015 12
+April 2015 11
+September 2015 10
+
+zip population
+25112 16769
+25014 29049
+95012 10372
+95013 10372
+
+
+x y c
+1 1 0
+2 4 0
+3 9 .5
+4 16 1
+5 25 1
+
+
+x y grp
+10 11 0
+11 12 0
+13 14 0
+21 22 1
+31 32 2
+22 23 1
+41 42 3
+33 34 2
+23 24 1
+44 45 3
+
+A B C
+'aaa' 0.0 1.0
+'bbb' 5.0 2.0
+'ccc' 10.0 30.0
+'ddd' 50.0 90.0
+'eee' 100.0 200.0
+'fff' 1000.0 700.0
+
+title user_id rating
+aaa 1 2.3
+aaa 2 3.5
+aaa 3 4.1
+bbb 1 1.2
+bbb 2 2.5
+bbb 3 3.7
+
+
